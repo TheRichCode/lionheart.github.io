@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+  <html>
+    <head>
 
-You can use the [editor on GitHub](https://github.com/TheRichCode/lionheart.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Computer Repairs around me">
+    <meta name="keywords" content="Computer service and repairs, professional computer repair, mobile computer repairs">
+    <meta name="author" content="Mike Amos">
+    
+    <title> GeeksOnGo | Computer Break&Fix  | Computer Rescue  </title>
+    <link rel="stylesheet" href="./css/styles.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+  </head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+     <body>
+      <header>
+          <div class="container">
+           <div id="brankding">
 
-```markdown
-Syntax highlighted code block
+            <h1><span class="highlight">GeeksOnGo</span> | A mobile Computer Repair & Service Company  </h1>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+           </div>
+           <nav>
+             <ul>
+              <li class="current"><a href="index.html">Home</a>
 
-1. Numbered
-2. List
+                </li>
+                
 
-**Bold** and _Italic_ and `Code` text
+                  <li> <a href="about.html">About</a>
+                    
 
-[Link](url) and ![Image](src)
-```
+                  </li>
+                <li><a href="services.html">Services</a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+              </li>
 
-### Jekyll Themes
+             </ul>
+           </nav>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheRichCode/lionheart.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+                  </div>
+        </header>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+         <section id="showcase">
+          <div class="container">
+
+            <h1> Affordable Professional Computer Repair</h1>
+            
+            <p>
+               We provide the facility for repairing mobile phones and computers at very low prices. Our customer’s satisfaction is necessary. 
+
+            </p>
+
+          </div>
+          <section id="newsletter">
+            <div class="container">
+              <h1>Subscribe To Our Newsletter </h1>
+              <form>
+                
+                <input type="email" placeholder="Enter Email...">
+                <button type="submit" class="button_1">Subscribe</button>
+              </form>
+                </div>
+              </section>
+
+              <section id="boxes">
+                <div class="container"></div>
+                <div class="boxes"></div>
+                  <h3>Software Installation</h3>
+                  <pa> We provide our customers with the best service according to their demand. We repair smartphones and computers of all brands</pa>
+                  <img src="./img/logo_bluescreen.jpg">
+
+                
+                  
+                  <div class="boxes"></div>
+                  <h3>BlueScreen</h3>
+                  <pa> We provide our customers with the best service according to their demand. We repair smartphones and computers of all brands</pa>
+                  <img src="./img/logo_breakfix.jpg">
+
+
+                  <div class="boxes"></div>
+                  <h3>Computer Break&FIX</h3>
+                  <pa> We provide our customers with the best service according to their demand. We repair smartphones and computers of all brands</pa>
+                  <img src="./img/logo_repair.jpg">
+
+                   
+                </div>
+              </section>
+              <footer>
+                
+
+                <p>GeeksOnGo, Copyright &copy; 2021</p>
+
+
+
+              </footer>
+      
+
+                 </body>
+
+                      </html>
